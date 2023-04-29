@@ -44,28 +44,5 @@ myData ={
         "content_url" : "https://www.instagram.com/p/CGSht9zoupz/"
       }
     },
-  },
-  "ashtax" : {
-    "username_youtube"  : "Ashtax",
-    "widgetHistory" : [
-    {
-      "supporter_username" : "TSD Sandoko",
-      "supporter_ppURL" : "https://cdn.discordapp.com/attachments/504992958370676757/1100761330736185344/TSD_Sandoko.jpg",
-      "since_timeString" : "il y a 2 semaines", 
-      "comment_text" : "Une nouvelle vidéo qui fait super plaisir !",
-      "plateform" : "Youtube",
-      "channel" : "/Ashtax",
-      "content_url" : "https://www.youtube.com/watch?v=MzlY8QpkVgk"
-    },
-    {
-      "supporter_username" : "TSD Sandoko",
-      "supporter_ppURL" : "https://cdn.discordapp.com/attachments/504992958370676757/1100761330736185344/TSD_Sandoko.jpg",
-      "since_timeString" : "il y a 2 semaines",
-      "comment_text" : "Une nouvelle vidéo qui fait super plaisir !",
-      "plateform" : "Youtube",
-      "channel" : "/Ashtax",
-      "content_url" : "https://www.youtube.com/watch?v=MzlY8QpkVgk"
-    }
-  ],
   }
 }
