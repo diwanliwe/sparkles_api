@@ -12,12 +12,11 @@
       },
       "next" :{
         "widget_type":"quote",
-        "supporter_username" : "68 Chanakya",
-        "supporter_ppURL" : "https://cdn.discordapp.com/attachments/504992958370676757/1100759851417735238/68_Chanakya.jpeg",
+        "author_username" : "farza",
+        "author_ppURL" : "https://cdn.discordapp.com/attachments/504992958370676757/1100759851417735238/68_Chanakya.jpeg",
         "since_timeString" : "3 weeks ago", 
-        "comment_text" : "So funny 😂 you guys should start a mini-series",
-        "plateform" : "Youtube",
-        "channel" : "/_buildspace",
+        "quote_text" : "You overthink and overcomplicate because you deeply care",
+        "footer" : "#bsfondamentals",
         "content_url" : "https://www.youtube.com/watch?v=bVhHP_9e7rk"
     },
     "later" :{
