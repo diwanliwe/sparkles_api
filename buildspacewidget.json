@@ -23,6 +23,8 @@
     "later" :{
         "widget_type":"countdown",
         "target" : "2023-08-05T17:00:00Z",
+        "subtitle" : "till s4 kickoff",
+        "alignSubtitle" : 0,
         "background_URL" : "https://diwanliwe.github.io/sparkles_api/gaudmire.png",
         "content_url" : "https://twitter.com/FarzaTV/status/1686811120466862080"
     },
