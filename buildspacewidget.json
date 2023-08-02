@@ -11,7 +11,7 @@
         "content_url" : "https://twitter.com/FarzaTV/status/1686811120466862080"
       },
       "next" :{
-        "widget_type":"CTA",
+        "widget_type":"quote",
         "supporter_username" : "68 Chanakya",
         "supporter_ppURL" : "https://cdn.discordapp.com/attachments/504992958370676757/1100759851417735238/68_Chanakya.jpeg",
         "since_timeString" : "3 weeks ago", 
@@ -19,6 +19,12 @@
         "plateform" : "Youtube",
         "channel" : "/_buildspace",
         "content_url" : "https://www.youtube.com/watch?v=bVhHP_9e7rk"
+    },
+    "later" :{
+        "widget_type":"countdown",
+        "target" : "2023-08-05T17:00:00Z",
+        "background_URL" : "https://diwanliwe.github.io/sparkles_api/gaudmire.png",
+        "content_url" : "https://twitter.com/FarzaTV/status/1686811120466862080"
     },
   },
   "alterok" : {
