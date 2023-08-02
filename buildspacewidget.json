@@ -4,7 +4,7 @@
         "widgetype":"CTA",
         "header" : "welcome to the gaudmire house",
         "footer" : "click on the widget to get your banner",
-        "background_ppURL" : "https://diwanliwe.github.io/sparkles_api/gaudmire.png",
+        "background_URL" : "https://diwanliwe.github.io/sparkles_api/gaudmire.png",
         "content_url" : "https://www.youtube.com/watch?v=QXigdkdcvhs"
       },
       "next" :{
