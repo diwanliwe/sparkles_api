@@ -2,9 +2,66 @@
   "gaudmire" : {
       "live"  : {
         "widget_type":"CTA",
-        "header" : "welcome to the gaudmire house",
+        "header" : "welcome in the gaudmire house",
         "footer" : "click on the widget to get your banner",
         "background_URL" : "https://diwanliwe.github.io/sparkles_api/gaudmire.png",
+        "content_url" : "https://www.youtube.com/watch?v=QXigdkdcvhs"
+      },
+      "next" :{
+        "widget_type":"CTA",
+        "supporter_username" : "68 Chanakya",
+        "supporter_ppURL" : "https://cdn.discordapp.com/attachments/504992958370676757/1100759851417735238/68_Chanakya.jpeg",
+        "since_timeString" : "3 weeks ago", 
+        "comment_text" : "So funny 😂 you guys should start a mini-series",
+        "plateform" : "Youtube",
+        "channel" : "/_buildspace",
+        "content_url" : "https://www.youtube.com/watch?v=bVhHP_9e7rk"
+    },
+  },
+  "alterok" : {
+      "live"  : {
+        "widget_type":"CTA",
+        "header" : "welcome in the alterok house",
+        "footer" : "click on the widget to get your banner",
+        "background_URL" : "https://diwanliwe.github.io/sparkles_api/alterok.png",
+        "content_url" : "https://www.youtube.com/watch?v=QXigdkdcvhs"
+      },
+      "next" :{
+        "widget_type":"CTA",
+        "supporter_username" : "68 Chanakya",
+        "supporter_ppURL" : "https://cdn.discordapp.com/attachments/504992958370676757/1100759851417735238/68_Chanakya.jpeg",
+        "since_timeString" : "3 weeks ago", 
+        "comment_text" : "So funny 😂 you guys should start a mini-series",
+        "plateform" : "Youtube",
+        "channel" : "/_buildspace",
+        "content_url" : "https://www.youtube.com/watch?v=bVhHP_9e7rk"
+    },
+  },
+  "erevald" : {
+      "live"  : {
+        "widget_type":"CTA",
+        "header" : "welcome in the erevald house",
+        "footer" : "click on the widget to get your banner",
+        "background_URL" : "https://diwanliwe.github.io/sparkles_api/erevald.png",
+        "content_url" : "https://www.youtube.com/watch?v=QXigdkdcvhs"
+      },
+      "next" :{
+        "widget_type":"CTA",
+        "supporter_username" : "68 Chanakya",
+        "supporter_ppURL" : "https://cdn.discordapp.com/attachments/504992958370676757/1100759851417735238/68_Chanakya.jpeg",
+        "since_timeString" : "3 weeks ago", 
+        "comment_text" : "So funny 😂 you guys should start a mini-series",
+        "plateform" : "Youtube",
+        "channel" : "/_buildspace",
+        "content_url" : "https://www.youtube.com/watch?v=bVhHP_9e7rk"
+    },
+  },
+  "spectreseek" : {
+      "live"  : {
+        "widget_type":"CTA",
+        "header" : "welcome in the spectreseek house",
+        "footer" : "click on the widget to get your banner",
+        "background_URL" : "https://diwanliwe.github.io/sparkles_api/spectreseek.png",
         "content_url" : "https://www.youtube.com/watch?v=QXigdkdcvhs"
       },
       "next" :{
