@@ -69,7 +69,7 @@
       "live"  : {
         "widget_type":"CTA",
         "topSpacer" : 50,
-        "alignHeader" : 10,
+        "alignHeader" : 0,
         "alignBottom" : 35,
         "header" : "welcome in the spectreseek house",
         "footer" : "click on the widget to get your banner",
