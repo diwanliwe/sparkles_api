@@ -5,8 +5,8 @@
         "header" : "welcome in the gaudmire house",
         "footer" : "click on the widget to get your banner",
         "topSpacer" : 50,
-        "alignHeader" : 13,
-        "alignBottom" : 13,
+        "alignHeader" : 14,
+        "alignBottom" : 35,
         "background_URL" : "https://diwanliwe.github.io/sparkles_api/gaudmire.png",
         "content_url" : "https://twitter.com/FarzaTV/status/1686811120466862080"
       },
@@ -25,6 +25,9 @@
       "live"  : {
         "widget_type":"CTA",
         "header" : "welcome in the alterok house",
+        "topSpacer" : 50,
+        "alignHeader" : 20,
+        "alignBottom" : 35,
         "footer" : "click on the widget to get your banner",
         "background_URL" : "https://diwanliwe.github.io/sparkles_api/alterok.png",
         "content_url" : "https://twitter.com/FarzaTV/status/1686811120466862080"
@@ -43,6 +46,9 @@
   "erevald" : {
       "live"  : {
         "widget_type":"CTA",
+        "topSpacer" : 50,
+        "alignHeader" : 20,
+        "alignBottom" : 35,
         "header" : "welcome in the erevald house",
         "footer" : "click on the widget to get your banner",
         "background_URL" : "https://diwanliwe.github.io/sparkles_api/erevald.png",
@@ -62,6 +68,9 @@
   "spectreseek" : {
       "live"  : {
         "widget_type":"CTA",
+        "topSpacer" : 50,
+        "alignHeader" : 20,
+        "alignBottom" : 35,
         "header" : "welcome in the spectreseek house",
         "footer" : "click on the widget to get your banner",
         "background_URL" : "https://diwanliwe.github.io/sparkles_api/spectreseek.png",
