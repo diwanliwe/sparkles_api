@@ -4,8 +4,10 @@
         "widget_type":"CTA",
         "header" : "welcome in the gaudmire house",
         "footer" : "click on the widget to get your banner",
+        "topSpacer" : 50;
+        "alignTopSpace" : 13;
         "background_URL" : "https://diwanliwe.github.io/sparkles_api/gaudmire.png",
-        "content_url" : "https://www.youtube.com/watch?v=QXigdkdcvhs"
+        "content_url" : "https://twitter.com/FarzaTV/status/1686811120466862080"
       },
       "next" :{
         "widget_type":"CTA",
