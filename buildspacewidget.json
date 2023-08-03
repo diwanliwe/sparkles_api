@@ -4,9 +4,9 @@
         "widget_type":"cta",
         "header" : "welcome in the gaudmire house",
         "footer" : "click on the widget to get your banner",
-        "topSpacer" : 18,
-        "alignHeader" : 25,
-        "alignBottom" : 30,
+        "topSpacer" : 50,
+        "alignHeader" : 18,
+        "alignBottom" : 18,
         "background_URL" : "https://diwanliwe.github.io/sparkles_api/gaudmire.png",
         "logo_URL" : "https://diwanliwe.github.io/sparkles_api/bslogo.png",
         "content_url" : "https://twitter.com/FarzaTV/status/1686811120466862080"
