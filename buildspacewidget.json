@@ -1,7 +1,7 @@
 { 
   "gaudmire" : {
       "live"  : {
-        "widget_type":"CTA",
+        "widget_type":"cta",
         "header" : "welcome in the gaudmire house",
         "footer" : "click on the widget to get your banner",
         "topSpacer" : 50,
@@ -11,7 +11,7 @@
         "content_url" : "https://twitter.com/FarzaTV/status/1686811120466862080"
       },
       "next" :{
-        "widget_type":"quote",
+        "widget_type":"person-related",
         "author_username" : "farza",
         "author_ppURL" : "https://diwanliwe.github.io/sparkles_api/farza.png",
         "context" : "3 weeks ago", 
