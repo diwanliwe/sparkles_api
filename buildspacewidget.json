@@ -6,7 +6,7 @@
         "footer" : "click on the widget to get your banner",
         "topSpacer" : 50,
         "alignHeader" : 18,
-        "alignBottom" : 18,
+        "alignBottom" : 25,
         "background_URL" : "https://diwanliwe.github.io/sparkles_api/gaudmire.png",
         "logo_URL" : "https://diwanliwe.github.io/sparkles_api/bslogo.png",
         "content_url" : "https://twitter.com/FarzaTV/status/1686811120466862080"
