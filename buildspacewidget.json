@@ -62,6 +62,7 @@
         "contextSpacer" : 4,
         "quoteSpacer": 16,
         "alignBottom" : 100,
+        "quoteSize": 16,
         "background_URL" : "https://diwanliwe.github.io/sparkles_api/mountain.png",
         "logo_URL" : "https://diwanliwe.github.io/sparkles_api/bslogo.png",
         "content_url" : "https://www.youtube.com/watch?v=bVhHP_9e7rk"
@@ -79,6 +80,7 @@
         "contextSpacer" : 4,
         "quoteSpacer": 16,
         "alignBottom" : 100,
+        "quoteSize": 16,
         "background_URL" : "https://diwanliwe.github.io/sparkles_api/mountain.png",
         "logo_URL" : "https://diwanliwe.github.io/sparkles_api/bslogo.png",
         "content_url" : "https://twitter.com/FarzaTV/status/1678561092308705281"
@@ -132,6 +134,7 @@
         "contextSpacer" : 4,
         "quoteSpacer": 16,
         "alignBottom" : 100,
+        "quoteSize": 16,
         "background_URL" : "https://diwanliwe.github.io/sparkles_api/mountain.png",
         "logo_URL" : "https://diwanliwe.github.io/sparkles_api/bslogo.png",
         "content_url" : "https://twitter.com/FarzaTV/status/1678561092308705281"
@@ -185,6 +188,7 @@
         "contextSpacer" : 4,
         "quoteSpacer": 16,
         "alignBottom" : 100,
+        "quoteSize": 16,
         "background_URL" : "https://diwanliwe.github.io/sparkles_api/mountain.png",
         "logo_URL" : "https://diwanliwe.github.io/sparkles_api/bslogo.png",
         "content_url" : "https://twitter.com/FarzaTV/status/1678561092308705281"
