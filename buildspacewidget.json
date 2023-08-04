@@ -1,6 +1,6 @@
 { 
   "gaudmire" : {
-      "live"  : {
+      "house"  : {
         "widget_type":"cta",
         "header" : "welcome in the gaudmire house",
         "footer" : "click on the widget to get your banner",
@@ -11,6 +11,20 @@
         "logo_URL" : "https://diwanliwe.github.io/sparkles_api/bslogo.png",
         "content_url" : "https://twitter.com/FarzaTV/status/1686811120466862080"
       },
+    "live" :{
+        "widget_type":"person-related",
+        "author_username" : "jason",
+        "author_ppURL" : "https://diwanliwe.github.io/sparkles_api/eurokids.png",
+        "context" : "today", 
+        "quote_text" : Tiktok, maybe it won't be there in 10 years, but content creation is going to be something that I truly believe will be",
+        "footer" : "#bsfondamentals",
+        "nameSpacer" : 6,
+        "contextSpacer" : 4,
+        "quoteSpacer": 16,
+        "alignBottom" : 100,
+        "background_URL" : "https://diwanliwe.github.io/sparkles_api/sf.png",
+        "logo_URL" : "https://diwanliwe.github.io/sparkles_api/bslogo.png",
+        "content_url" : "https://www.youtube.com/watch?v=bVhHP_9e7rk"
       "next" :{
         "widget_type":"person-related",
         "author_username" : "farza",
