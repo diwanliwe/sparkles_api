@@ -11,7 +11,7 @@
         "logo_URL" : "https://diwanliwe.github.io/sparkles_api/bslogo.png",
         "content_url" : "https://twitter.com/FarzaTV/status/1686811120466862080"
       },
-    "live" :{
+    "august3" :{
         "widget_type":"person-related",
         "author_username" : "jason",
         "author_ppURL" : "https://diwanliwe.github.io/sparkles_api/eurokids.png",
@@ -42,14 +42,13 @@
         "logo_URL" : "https://diwanliwe.github.io/sparkles_api/bslogo.png",
         "content_url" : "https://www.youtube.com/watch?v=bVhHP_9e7rk"
     },
-    "later" :{
+    "live" :{
         "widget_type":"countdown",
-        "target" : "2023-08-05T17:00:00Z",
-        "subtitle" : "till s4 kickoff",
+        "target" : "2023-08-04T23:00:00Z",
+        "subtitle" : "till week 4 exam",
         "alignSubtitle" : 40,
-        "background_URL" : "https://diwanliwe.github.io/sparkles_api/gaudmire.png",
-        "logo_URL" : "https://diwanliwe.github.io/sparkles_api/bslogo.png",
-        "content_url" : "https://twitter.com/FarzaTV/status/1686811120466862080"
+        "background_URL" : "https://diwanliwe.github.io/sparkles_api/mountain.png",
+        "content_url" : "https://buildspacesortinghat.netlify.app/"
     },
   },
   "alterok" : {
