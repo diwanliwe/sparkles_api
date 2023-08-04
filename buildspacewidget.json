@@ -25,6 +25,7 @@
         "background_URL" : "https://diwanliwe.github.io/sparkles_api/sf.png",
         "logo_URL" : "https://diwanliwe.github.io/sparkles_api/bslogo.png",
         "content_url" : "https://www.youtube.com/watch?v=bVhHP_9e7rk"
+       },
       "next" :{
         "widget_type":"person-related",
         "author_username" : "farza",
