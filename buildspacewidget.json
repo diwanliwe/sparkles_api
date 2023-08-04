@@ -46,8 +46,9 @@
         "widget_type":"countdown",
         "target" : "2023-08-04T23:00:00Z",
         "subtitle" : "till week 4 exam",
-        "alignSubtitle" : 40,
+        "alignSubtitle" : 30,
         "background_URL" : "https://diwanliwe.github.io/sparkles_api/mountain.png",
+        "logo_URL" : "https://diwanliwe.github.io/sparkles_api/bslogo.png",
         "content_url" : "https://buildspacesortinghat.netlify.app/"
     },
   },
